@@ -4,17 +4,14 @@ cd  $ HOME
     mv mb2 $ PREFIX / bin / deanmb
     chmod + x $ PREFIX / bin / deanmb
 clear
-echo -e "\033[0;34m━━━━━━━━✦✗✦━━━━━━━━\033[0m"
-echo -e "\E[44;1;37m  DEAN CLONE (REP).        \E[0m"
-echo -e "\033[0;34m━━━━━━━━✦✗✦━━━━━━━━\033[0m"
+echo -e "\033[0;34m     ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
+echo -e "\E[44;1;37m          DEAN CLONE (REP).        \E[0m"
+echo -e "\033[0;34m    ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
 echo -e " "                  
 
                 echo -e " \033[1;34m MOD @GUGUHOMEMDELETRAS \033[0m"
                 echo -e " \033[1;34m CANAL @RevHunter TELEGRAM \033[0m"
-echo  " "
-echo -e "\033[1;32mɴᴀᴏ ᴠᴇɴᴅᴀ ᴇsᴛᴇ ᴍᴇᴛᴏᴅᴏ\033[1;37m"
-echo -e "\033[1;32mɴᴀᴏ sᴇᴊᴀ ʙᴜʀʀᴏ ɴᴀᴏ ᴅɪᴠᴜʟɢᴜᴇ ɴᴏ ʏᴏᴜᴛᴜʙᴇ\033[1;37m"
-echo ""
+
 echo -e " \033[42;1;37m° ENVIAR REQUEST > {MBS VIVO} \033[0m "
 echo -e "\033[01;37mTRUE = \033[01;32mPOSSIVEL ENVIO DOS MBS \033[01;37m| FALSE = \033[01;31mCHIP NÃO ELEGÍVEL"
 sleep 1
