@@ -5,7 +5,7 @@ cd  $ HOME
     chmod + x $ PREFIX / bin / deanmb
 clear
 echo -e "\033[0;34mㅤㅤㅤㅤㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
-echo -e "\E[44;1;37mㅤㅤㅤㅤㅤㅤㅤㅤㅤDEAN CLONE (REP)     \E[0m"
+echo -e "\E[44;1;37mㅤㅤㅤDEAN CLONE (REP)     \E[0m"
 echo -e "\033[0;34mㅤㅤㅤㅤㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
 echo -e " "                  
 
@@ -13,7 +13,7 @@ echo -e " "
                 echo -e " \033[1;34mㅤㅤㅤ CANAL @RevHunter TELEGRAM \033[0m"
 
 echo -e " \033[42;1;37m ㅤㅤㅤENVIAR REQUEST > {MBS VIVO} \033[0m "
-echo -e "\033[01;37mㅤㅤㅤㅤㅤㅤTRUE = \033[01;32mPOSSIVEL ENVIO DOS MBS \033[01;37m|ㅤㅤㅤ FALSE = \033[01;31mCHIP NÃO ELEGÍVEL"
+echo -e "\033[01;37mㅤㅤㅤㅤㅤㅤTRUE = \033[01;32mPOSSIVEL ENVIO DOS MBS \033[01;37m| FALSE = \033[01;31mCHIP NÃO ELEGÍVEL"
 sleep 1
 echo -e "\033[01;32mINFORME SEU NÚMERO 55+DDD+NÚMERO\033[01;37m"
 read NUMERO
