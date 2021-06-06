@@ -4,11 +4,10 @@ cd  $ HOME
     mv deanmb $ PREFIX / bin / deanmb
     chmod + x $ PREFIX / bin / deanmb
 clear
-         echo -e "\033[0;105mㅤㅤㅤㅤㅤ━━━━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━━━━\033[0m"
-         echo -e "\033[0;105mㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤMBS HUNTER 🧔ㅤㅤㅤㅤㅤㅤㅤㅤㅤ\033[0m"
-         echo -e "\033[0;105mㅤㅤㅤㅤㅤ━━━━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\033[0;105m━━━━━━━━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[44;1;105m               MB'S HUNTER  🧔          \E[0m"
+echo -e "\033[0;105m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e " "                  
-
                 echo -e " \033[1;97mㅤㅤㅤ By @GUGUHOMEMDELETRAS \033[0m"
                 echo -e " \033[1;97mㅤㅤㅤ TELEGRAM CHANNEL @RevHunter  \033[0m"
 echo -e " "
