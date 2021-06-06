@@ -5,7 +5,7 @@ cd  $ HOME
     chmod + x $ PREFIX / bin / deanmb
 clear
 echo -e "\033[0;105m━━━━━━━━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\E[44;1;105m               BEM-VINDO 🤖         \E[0m"
+echo -e "\E[44;1;105m               BEM-VINDO  MB'S DEAN 🤖         \E[0m"
 echo -e "\033[0;105m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e " "                  
 echo -e " \033[42;1;37m ㅤㅤㅤENVIAR REQUEST {MBS VIVO} \033[0m "
