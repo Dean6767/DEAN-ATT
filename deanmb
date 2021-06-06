@@ -5,7 +5,7 @@ cd  $ HOME
     chmod + x $ PREFIX / bin / deanmb
 clear
          echo -e "\033[0;105mㅤㅤㅤㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
-         echo -e "\[44;1;105mㅤㅤㅤㅤㅤㅤㅤㅤDEAN MBS FREE 🤖     \[0m"
+         echo -e " \033[0;105mㅤㅤㅤ By @GUGUHOMEMDELETRAS \033[0m"
          echo -e "\033[0;105mㅤㅤㅤㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
 echo -e " "                  
 
@@ -15,6 +15,7 @@ echo -e " "
 echo -e " \033[42;1;37m ㅤㅤㅤENVIAR REQUEST {MBS VIVO} \033[0m "
 echo -e " "
 echo -e "\033[01;37mㅤㅤㅤㅤㅤㅤTRUE = \033[01;32mPOSSÍVEL ENVIO DOS MBS! \033[01;37m| FALSE = \033[01;31mCHIP NÃO ELEGÍVEL!"
+echo -e " "
 sleep 1
           echo -e "\033[01;32mㅤㅤㅤINFORME SEU NÚMERO 55+DDD+NÚMERO\033[01;37m"
 read NUMERO
