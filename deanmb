@@ -4,9 +4,9 @@ cd  $ HOME
     mv deanmb $ PREFIX / bin / deanmb
     chmod + x $ PREFIX / bin / deanmb
 clear
-         echo -e "\033[0;105mㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
-         echo -e "\E[44;1;105mㅤㅤDEAN .W MBS FREE 🤖     \E[0m"
-         echo -e "\033[0;105mㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
+         echo -e "\033[0;105mㅤㅤㅤㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
+         echo -e "\[44;1;105mㅤㅤㅤㅤㅤㅤㅤㅤDEAN .W MBS FREE 🤖     \[0m"
+         echo -e "\033[0;105mㅤㅤㅤㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
 echo -e " "                  
 
                 echo -e " \033[1;97mㅤㅤㅤ By @GUGUHOMEMDELETRAS \033[0m"
