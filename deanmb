@@ -4,19 +4,19 @@ cd  $ HOME
     mv deanmb $ PREFIX / bin / deanmb
     chmod + x $ PREFIX / bin / deanmb
 clear
-echo -e "\033[0;105mㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
-echo -e "\E[44;1;42mㅤㅤDEAN .W MBS FREE 🤖     \E[0m"
-echo -e "\033[0;105mㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
+         echo -e "\033[0;105mㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
+         echo -e "\E[44;1;42mㅤㅤDEAN .W MBS FREE 🤖     \E[0m"
+         echo -e "\033[0;105mㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
 echo -e " "                  
 
-                echo -e " \033[1;97mㅤㅤㅤ MOD @GUGUHOMEMDELETRAS \033[0m"
-                echo -e " \033[1;97mㅤㅤㅤ CANAL @RevHunter TELEGRAM \033[0m"
+                echo -e " \033[1;97mㅤㅤㅤ By @GUGUHOMEMDELETRAS \033[0m"
+                echo -e " \033[1;97mㅤㅤㅤ TELEGRAM CHANNEL @RevHunter  \033[0m"
 echo -e " "
-echo -e " \033[42;1;37m ㅤㅤㅤENVIAR REQUEST > {MBS VIVO} \033[0m "
+echo -e " \033[42;1;37m ㅤㅤㅤENVIAR REQUEST {MBS VIVO} \033[0m "
 echo -e " "
 echo -e "\033[01;37mㅤㅤㅤㅤㅤㅤTRUE = \033[01;32mPOSSÍVEL ENVIO DOS MBS! \033[01;37m| FALSE = \033[01;31mCHIP NÃO ELEGÍVEL!"
 sleep 1
-echo -e "\033[01;32mINFORME SEU NÚMERO 55+DDD+NÚMERO\033[01;37m"
+          echo -e "\033[01;32mINFORME SEU NÚMERO 55+DDD+NÚMERO\033[01;37m"
 read NUMERO
 echo -e "\033[01;32mREPETIR O PROCESSO QUANTAS VEZES?\033[1;37m"
 read VEZES
