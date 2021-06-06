@@ -5,7 +5,7 @@ cd  $ HOME
     chmod + x $ PREFIX / bin / deanmb
 clear
 echo -e "\033[0;34mㅤㅤㅤㅤㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
-echo -e "\E[44;1;37mㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤDEAN CLONE (REP)     \E[0m"
+echo -e "\E[44;1;37mㅤㅤㅤㅤㅤㅤㅤㅤㅤDEAN CLONE (REP)     \E[0m"
 echo -e "\033[0;34mㅤㅤㅤㅤㅤㅤ━━━━━━━━✦✗✦━━━━━━━━\033[0m"
 echo -e " "                  
 
@@ -13,49 +13,49 @@ echo -e " "
                 echo -e " \033[1;34mㅤㅤㅤ CANAL @RevHunter TELEGRAM \033[0m"
 
 echo -e " \033[42;1;37m ㅤㅤㅤENVIAR REQUEST > {MBS VIVO} \033[0m "
-echo -e "\033[01;37mTRUE = \033[01;32mㅤㅤㅤPOSSIVEL ENVIO DOS MBS \033[01;37m| FALSE = \033[01;31mCHIP NÃO ELEGÍVEL"
+echo -e "\033[01;37mㅤㅤㅤㅤㅤㅤTRUE = \033[01;32mPOSSIVEL ENVIO DOS MBS \033[01;37m|ㅤㅤㅤ FALSE = \033[01;31mCHIP NÃO ELEGÍVEL"
 sleep 1
 echo -e "\033[01;32mINFORME SEU NÚMERO 55+DDD+NÚMERO\033[01;37m"
 read NUMERO
 echo -e "\033[01;32mREPETIR O PROCESSO QUANTAS VEZES?\033[1;37m"
 read VEZES
 echo ""
-echo -e "\033[0m\033[01;33mENVIANDO REQUEST > MB\033[03;037m"
+echo -e "\033[0m\033[01;33mㅤㅤㅤENVIANDO REQUEST\033[03;037m"
 for i in $(seq $VEZES);
 do
 data=$"msisdn=$NUMERO&campid=03bc4539-13db-4045-9119-a937eb48d41d&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
 echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
 done
 echo -e ""
-echo -e "\033[0m\033[01;33mESTA SENDO REQUISITADO\033[03;037m"
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO\033[03;037m"
 for i in $(seq $VEZES);
 do
 data=$"msisdn=$NUMERO&campid=9576e551-97a1-4744-aded-5c8368182306&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
 echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
 done
 echo ""
-echo -e "\033[0m\033[01;33mESTA SENDO REQUISITADO\033[03;037m"
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO\033[03;037m"
 for i in $(seq $VEZES);
 do
 data=$"msisdn=$NUMERO&campid=91e22bd5-7b79-4fef-8dfa-c40f1ff3736b&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
 echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
 done
 echo ""
-echo -e "\033[0m\033[01;33mESTA SENDO REQUISITADO\033[03;037m"
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO\033[03;037m"
 for i in $(seq $VEZES);
 do
 data=$"msisdn=$NUMERO&campid=4919b47c-f588-4e71-87e3-639b3af92e4d&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
 echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
 done
 echo ""
-echo -e "\033[0m\033[01;33mESTA SENDO REQUISITADO\033[03;037m"
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO\033[03;037m"
 for i in $(seq $VEZES);
 do
 data=$"msisdn=$NUMERO&campid=19313963-7198-4a33-9511-1c72c7d6152a&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
 echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
 done
 echo  " "
-echo -e "\033[0;35mDE O COMANDO ./deanmb para comecar novamente\033[0m"
+echo -e "\033[0;35mOI MEU CHAPA ;) SE ESTÁ VENDO ESSA MENSAGEM , "FOSEE" É FIADINHO\033[0m"
 echo  " "
 echo -e "\033[41;1;37m, DIGITE CLEAR PARA SAIR 🔴\033[0m"
 echo  " "
