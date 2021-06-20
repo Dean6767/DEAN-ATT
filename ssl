@@ -1,0 +1,19 @@
+#/bin/bash
+clear
+echo -e "\033[01;37m BUSCANDO ATUALIZAÇÕES 033[01;32mAGUARDE..."
+sleep 5
+apt update; apt upgrade -y; clear
+echo -e "\E[44;1;105m MANAGER INSTALADO!  \E[0m"
+sleep 3
+apt install zip -y; apt install unzip -y
+cd /etc; rm -rf ssl stunnel; clear
+echo -e "\033[01;31mDESCOMPACTANDO E SUBSTITUINDO SSL CERTIFICATE..."
+sleep 4
+wget https://www.dropbox.com/s/iyzvp2vumvkfr0r/ssldean.zip
+unzip ssl.zip; rm ssl.zip; clear
+echo -e " \033[42;1;37m SSL CERTIFICATE INSTALADO COM SUCESSO! \033[0m "
+echo -e "REINICIE SUA MÁQUINA!"
+echo -e "REINICIAR > COMANDO : reboot "
+echo ""
+echo -e "Mod By @GUGUHOMEMDELETRAS"
+cd; rm ssl.sh
